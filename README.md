@@ -4,6 +4,9 @@
 
 An interactive Tableau dashboard analyzing British Airways customer reviews and ratings across multiple dimensions including geographic distribution, temporal trends, and aircraft-specific performance metrics. This project provides comprehensive insights into customer satisfaction patterns and service quality metrics.
 
+## Dashboard
+![Dashboard](dashboard.png)
+
 ## 🎯 Key Features
 
 - **Interactive Map Visualization**: Geographic distribution of average cabin staff service ratings by country
@@ -102,10 +105,6 @@ british-airways-dashboard/
 - **Tableau**: Primary visualization and dashboard creation
 - **Data Source**: CSV file processing
 - **Design**: Custom color schemes and professional formatting
-
-## 📸 Dashboard Preview
-
-![Dashboard Overview](images/dashboard_screenshot.png)
 
 
 ## 🤝 Contributing
